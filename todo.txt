@@ -1,0 +1,7 @@
+
+- Change structure so that have a test dir and package dir,
+  and test files match test name or class name.
+- Add tox so can test that hassattr isn't flagged up
+  as a prblem in Python 3
+- Extract looping over file into a generator function
+- Extract concern into separate object.
